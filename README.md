@@ -1,4 +1,3 @@
-derp-sansa
-==========
+# derp-sansa
 
-Derp sansa!
+We did it!
